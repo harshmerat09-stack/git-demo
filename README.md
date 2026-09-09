@@ -1,4 +1,3 @@
 # git-demo
-this is my first git repository;
-/n 
-author-nawaz;
+this is my first git repository \ 
+author-nawaz
